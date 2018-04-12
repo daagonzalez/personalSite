@@ -6,41 +6,41 @@
   crossorigin="anonymous"></script>
 
 <div class="left-menu" style="opacity: 1;">
-  <a class="logo" href="index.html">daaGonzalez</a>
+  <a class="logo" href="index.shtml">daaGonzalez</a>
 
   <nav class="main-navi">
     <ul>
       <li>
-        <a id="lnkInicio" href="index.html"> Inicio </a>
+        <a id="lnkInicio" href="index.shtml"> Inicio </a>
       </li>
       <li>
-        <a id="lnkObjetivos" href="objetivos.html"> Mis Objetivos </a>
+        <a id="lnkObjetivos" href="objetivos.shtml"> Mis Objetivos </a>
       </li>
       <li>
-        <a href="#"> Computaci&oacuten </a>
+        <a id="lnkComputacion" href="#"> Computaci&oacuten </a>
         <ul class="drop-down">
           <li>
-            <a id="lnkPorqueCompu" href="porqueComputacion.html"> Por qu&eacute Computaci&oacuten </a>
+            <a id="lnkPorqueCompu" href="porqueComputacion.shtml"> Por qu&eacute Computaci&oacuten </a>
           </li>
           <li>
-            <a id="lnkCursos" href="cursosPreferidos.html"> Cursos preferidos </a>
+            <a id="lnkCursos" href="cursosPreferidos.shtml"> Cursos preferidos </a>
           </li>
           <li>
-            <a id="lnkProfesoresCompaneros" href="profesoresYCompaneros.html"> Mis profesores y compañeros </a>
+            <a id="lnkProfesoresCompaneros" href="profesoresYCompaneros.shtml"> Mis profesores y compañeros </a>
           </li>
           <li>
-            <a id="lnkDescargas" href="descargas.html"> Descargas </a>
+            <a id="lnkDescargas" href="descargas.shtml"> Descargas </a>
           </li>
         </ul>
       </li>
       <li>
-        <a id="lnkPasatiempos" href="pasatiempos.html"> Pasatiempos </a>
+        <a id="lnkPasatiempos" href="pasatiempos.shtml"> Pasatiempos </a>
       </li>
       <li>
-        <a id="lnkAcerca" href="acercaDelSitio.html"> Acerca de este sitio </a>
+        <a id="lnkAcerca" href="acercaDelSitio.shtml"> Acerca de este sitio </a>
       </li>
       <li>
-        <a id="lnkContacto" href="contacto.html"> Cont&aacutecteme </a>
+        <a id="lnkContacto" href="contacto.shtml"> Cont&aacutecteme </a>
       </li>
     </ul>
     <em id="showHideMenu" class="show-hide-menu glyph fa-bars" href=""></em>
