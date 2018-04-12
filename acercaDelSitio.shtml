@@ -1,6 +1,6 @@
 <html>
 
-<!--#include file="header.html" -->
+<!--#include file="header.shtml" -->
 
 <script> $("#lnkAcerca").attr('class', 'active'); </script>
 
