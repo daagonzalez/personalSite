@@ -17,7 +17,7 @@
         <a id="lnkObjetivos" href="objetivos.shtml"> Mis Objetivos </a>
       </li>
       <li>
-        <a id="lnkComputacion" href="#"> Computaci&oacuten </a>
+        <a id="lnkComputacion" href="computacion.shtml"> Computaci&oacuten </a>
         <ul class="drop-down">
           <li>
             <a id="lnkPorqueCompu" href="porqueComputacion.shtml"> Por qu&eacute Computaci&oacuten </a>
